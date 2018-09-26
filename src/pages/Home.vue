@@ -4,7 +4,7 @@
     <div class="main-container ">
 				<div id="content_left" >
 						<div class="content-top">
-							<div style="font-size:14px;">上午好，张宇11</div>
+							<div style="font-size:14px;">上午好，张宇1112</div>
 							<div style="font-size:12px;color: #787878;">您有8条消息</div>
 							<div class="news"><span class="left">管理员林新然于 2018年07月11日 10:13 关闭自动邀请成员使用功能   </span><span class="right">»</span></div>
 							<div class="news"><span class="left">管理员林新然于 2018年07月11日 10:13 开启自动邀请成员使用功能   </span><span class="right">»</span></div>
